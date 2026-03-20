@@ -2,4 +2,4 @@
 ## Ini berisi syntax yang tersedia dalam `apt`
 | Command | Function |
 |---------|----------|
-| sudo apt update | Update online |
+| sudo apt update |Memperbarui daftar metadata yang tersedia di repo system |
