@@ -1,3 +1,3 @@
 | Command | Function |
 |---------|----------|
-| dpkg -l | Show lists |
+| dpkg -l | Show installed package lists |
