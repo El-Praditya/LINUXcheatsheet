@@ -7,4 +7,5 @@
 | sudo apt install `package` | Install `package` |
 | sudo apt autoremove | Delete dependency yang tidak dibutuhkan system |
 | sudo apt purge `package` | Delete `package` + config | 
+| sudo apt remove `package` | Delete `package` without config |
 | sudo apt autoclean | Delete cache |
