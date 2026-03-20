@@ -2,8 +2,9 @@
 ## Ini berisi syntax yang tersedia dalam `apt`
 | Command | Function |
 |---------|----------|
-| sudo apt update | Memperbarui daftar metadata yang tersedia di repo system |
-| sudo apt upgrade | Memperbarui paket yang sudah terinstall ke versi terbaru |
-| sudo apt install `package` | Menginstall `package` |
-| sudo apt autoremove | Hapus file yang sudah tidak digunakan system |
-| sudo apt purge `package` | Menghapus `package` dan atau `software` | 
+| sudo apt update | Update metadata lists yang tersedia di repo system |
+| sudo apt upgrade | Upgrade package installed ke new version|
+| sudo apt install `package` | Install `package` |
+| sudo apt autoremove | Delete file yang sudah tidak digunakan system |
+| sudo apt purge `package` | Delete `package` | 
+| sudo apt autoclean | Delete
