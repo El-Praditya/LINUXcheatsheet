@@ -1,30 +1,27 @@
 
-## PACMAN ##
+# PACMAN #
 
-# Update
+### Update
 sudo pacman -Syu
 
-# Install Package
+### Install Package
 sudo pacman -S packagename
 
-# Remove Package
+### Remove Package
 sudo pacman -Rns
 
-# Delete cache
+### Delete cache
 sudo pacman -Scc
 
-# Refresh mirror
+### Refresh mirror
 sudo pacman-mirrors --fasttrack
 
 ====================================
 
-## YAY ##
+# YAY 
 
-# Update
+### Update
 yay -Syu
 
-# Install Package
+### Install Package
 yay -S packagename
-
-
-
