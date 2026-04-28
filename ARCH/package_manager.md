@@ -16,7 +16,7 @@ sudo pacman -Scc
 ### Refresh mirror
 sudo pacman-mirrors --fasttrack
 
-====================================
+##
 
 # YAY 
 
