@@ -5,7 +5,7 @@
 | smbclient //IPADDR/shared -N | Login tanpa credential |
 
 
-#**MODE** **_smb: \>_**  
+ #**Mode** **_smb: \>_**  
 | Command | Meaning | 
 |---------|---------|
 | get file.txt | Download file.txt |
