@@ -6,6 +6,7 @@
 
  **MODE** **_smb: \>_**  
 | Command | Meaning | 
+|---------|---------|
 | get file.txt | Download file.txt |
 | mget * | Download banyak file |
 | del file.txt | Hapus file.txt |
